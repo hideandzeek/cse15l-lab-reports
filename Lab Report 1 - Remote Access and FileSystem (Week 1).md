@@ -18,11 +18,10 @@
 3. path to a file:  
 ![Image](ls3.png)
 
-**Command: ls**
+**Command: cat**
 1. no argument:
-  
+![Image](cat1.png)
 2. path to a directory: 
-
+![Image](cat2.png)
 3. path to a file:  
-
-
+![Image](cat3.png)
