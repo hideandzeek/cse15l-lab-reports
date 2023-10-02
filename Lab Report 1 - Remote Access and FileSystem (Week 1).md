@@ -7,23 +7,37 @@
 
 ![Image](cd1.png)
 
-3. path to a directory: 
+2. path to a directory:
+
 ![Image](cd2.png)
-4. path to a file:  
+
+3. path to a file:
+   
 ![Image](cd3.png)
+
 
 **Command: ls**
 1. no argument:
+
 ![Image](ls1.png)
-2. path to a directory: 
+
+2. path to a directory:
+   
 ![Image](ls2.png)
-3. path to a file:  
+
+3. path to a file:
+   
 ![Image](ls3.png)
 
 **Command: cat**
 1. no argument:
+   
 ![Image](cat1.png)
-2. path to a directory: 
+
+2. path to a directory:
+   
 ![Image](cat2.png)
-3. path to a file:  
+
+3. path to a file:
+   
 ![Image](cat3.png)
