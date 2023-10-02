@@ -4,6 +4,7 @@
 
 **Command: cd**
 1. no argument:
+
 ![Image](cd1.png)
 2. path to a directory: 
 ![Image](cd2.png)
