@@ -7,9 +7,13 @@
 
 ![Image](cd1.png)
 
+The working directory was /home
+
 2. path to a directory:
 
 ![Image](cd2.png)
+
+The working directory was /home/lecture1
 
 3. path to a file:
    
