@@ -8,6 +8,7 @@
 ![Image](cd1.png)
 
 The working directory was /home
+
 There was no output
 
 2. path to a directory:
