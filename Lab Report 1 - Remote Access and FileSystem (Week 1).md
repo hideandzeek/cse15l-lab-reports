@@ -9,15 +9,15 @@
 
 The working directory was /home
 
-There was no output
+There was no output because I didn't specify a directory to change into, hence no action was taken and no output was given. 
 
 2. path to a directory:
 
 ![Image](cd2.png)
 
-The working directory was /home/lecture1
+The working directory was /home
 
-There was no output, but it can be seen that the working directory changed
+There was no output, but it can be seen that the working directory changed from just /home to a more specific directory that exists in /home, titled /home/lecture1.
 
 3. path to a file:
    
@@ -34,7 +34,7 @@ The output gave an error message. This error appeared because the current direct
 
 The working directory was /home
 
-The output listed the names of the files in the current directory
+The output listed the names of the files in the current directory, which was lecture1. 
 
 2. path to a directory:
    
@@ -42,7 +42,7 @@ The output listed the names of the files in the current directory
 
 The working directory was /home
 
-The output listed the names of the files in the specified directory
+The output listed the names of the files in the specified directory, which contained Hello.class, Hello.java, messages, and the README file. 
 
 3. path to a file:
    
@@ -50,7 +50,7 @@ The output listed the names of the files in the specified directory
 
 The working directory was /home
 
-The output was an error message. The error occurred because there are no files to list when directed to that specific file. 
+The output was an error message. The error occurred because the current working directory was /home and I didn't have access to the file. The file that I used for the list command was in another, more specific directory called /home/lecture1/.
 
 **Command: cat**
 1. no argument:
@@ -59,7 +59,7 @@ The output was an error message. The error occurred because there are no files t
 
 The working directory was /home
 
-There was no specified working directory hence it made the terminal a keyboard, and prints anything that the user typed out. 
+I did not specify a directory for the concatenate command. There was no output, and the cat command made the terminal a keyboard that prints anything that I typed out. 
 
 2. path to a directory:
    
