@@ -2,7 +2,7 @@
 ## Zeke Wang
 
 **Part 1**
-`
+````
 import java.io.IOException;
 import java.net.URI;
 
@@ -38,5 +38,7 @@ class StringServer {
         Server.start(port, new Handler());
     }
 }
+````
+![Image](ilovecse15lsomuch.png)
 
 
