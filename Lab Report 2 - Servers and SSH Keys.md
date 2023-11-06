@@ -69,3 +69,7 @@ These two images show the pwd and ls outputs from both the remote and local comp
 ![Image](nopassword.png)
 
 This screenshot shows that I can log in without being prompted to type my password. 
+
+
+### Part 3
+In weeks 2 and 3 of the lab, I discovered how surprisingly straightforward it is to start and access remote servers and computers. With the right commands and a basic understanding of the concepts, I learned that I could establish remote connections and manage distant computers with ease. I thought that starting a page that other people could access would be a lot of work and effort, and it is interesting to me that not a whole lot of effort is required; even I can start a server that is accessible to people who have the URL and internet. I also find it interesting that I can very easily access computers remotely as well. 
