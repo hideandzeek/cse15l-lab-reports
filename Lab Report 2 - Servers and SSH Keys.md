@@ -64,7 +64,7 @@ These two images show that local and remote have the same key, which shows the p
 ![Image](localls.png)
 ![Image](remotels.png)
 
-These two images show the pwd and ls outputs. The screenshots show the absolute path for the key. 
+These two images show the pwd and ls outputs from both the remote and local computers. The screenshots show the absolute path for the key. 
 
 ![Image](nopassword.png)
 
