@@ -41,4 +41,12 @@ class StringServer {
 ````
 ![Image](ilovecse15lsomuch.png)
 
+- The method in my code that was called is public String handleRequest(URI url) {...}
+- The argument for handleRequest is a URL. The method checks the URL for the /add-message path. If not detected it will return nothing, and if detected it will add the message into a string array, which then is returned with the value as the message in the URL in the format of an element in the string array.
+- The argument changes whatever was inputted into the query into a string value and displays it when the page updates. The expected value is 5. much which is demonstrated in the screenshot. 
 
+![Image](goodgradeplease.png)
+
+- The method in my code that was called is public String handleRequest(URI url) {...}
+- The argument for handleRequest is a URL. The method checks the URL for the /add-message path. If not detected it will return nothing, and if detected it will add the message into a string array, which then is returned with the value as the message in the URL in the format of an element in the string array.
+- Any value inputted for the query becomes a String. This screenshot shows that integer, double, and URL are all converted to String. 
