@@ -2,6 +2,8 @@
 ## Zeke Wang
 
 ### Part 1
+
+This is the code: 
 ````
 import java.io.IOException;
 import java.net.URI;
@@ -39,6 +41,7 @@ class StringServer {
     }
 }
 ````
+
 ![Image](ilovecse15lsomuch.png)
 
 - The method in my code that was called is public String handleRequest(URI url) {...}
@@ -55,6 +58,14 @@ class StringServer {
 ### Part 2
 ![Image](localkey.png)
 ![Image](remotekey.png)
+
+These two images show that local and remote have the same key, which shows the path to the public key to log into ieng6 remote computer. 
+
 ![Image](localls.png)
 ![Image](remotels.png)
+
+These two images show the pwd and ls outputs. The screenshots show the absolute path for the key. 
+
 ![Image](nopassword.png)
+
+This screenshot shows that I can log in without being prompted to type my password. 
