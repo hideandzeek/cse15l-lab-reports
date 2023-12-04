@@ -60,3 +60,22 @@ public class Factorial {
 Here is a screenshot that it work without the error: 
 ![Image](lab53.png)
 
+Here is the code for the bash test.sh and the screenshot of the passed test: 
+```
+javac Factorial.java
+
+output=$(java Factorial 2>&1)
+
+if [[ "$output" == *"StackOverflowError"* ]]; then
+    echo "Test Passed: StackOverflowError caught"
+else
+    echo "Test Failed: StackOverflowError not caught"
+fi
+```
+
+![Image](lab54.png)
+
+### Part 2
+
+
+
