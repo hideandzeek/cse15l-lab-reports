@@ -35,9 +35,9 @@ java Factorial
 Student's follow up: 
 After running my program with a smaller input value, indeed, I'm getting the same infinite loop of error messages. Here's a screenshot of the terminal output:
 
-![Image](lab52a.png)
+![Image](lab52.png)
 
-To fix this, I will add a base case to stop the recursion when nm is less or equal to 1. Here is the updated code and screenshot that it no longer has the error message: 
+To fix this, I will add a base case to stop the recursion when n is less or equal to 1. Here is the updated code and screenshot that it no longer has the error message: 
 
 Code:
 ```
@@ -58,5 +58,5 @@ public class Factorial {
 ```
 
 Here is a screenshot that it work without the error: 
-![Image](lab53a.png)
+![Image](lab53.png)
 
