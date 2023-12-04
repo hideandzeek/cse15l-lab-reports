@@ -15,7 +15,7 @@ command summarization: I logged into the remote computer and cloned the reposito
 
 Keys pressed:
 1. cd lab7 ```<enter>```
-2. bash test.sh github.com/ucsd-cse15l-s23/lab7 <enter>
+2. bash test.sh github.com/ucsd-cse15l-s23/lab7 ```<enter>```
 
 command summarization: I changed the directory to lab7 so that I can run the provided test.sh. After running the test.sh the screenshot shows that the tests did not pass. 
 
@@ -42,7 +42,7 @@ command summarization: To fix the code, I moved my curser to the index1 that is 
 ![Image](lab45.png)
 
 Keys pressed:
-1. cd lab7
+1. cd lab7 ```<enter>```
 2. bash test.sh github.com/ucsd-cse15l-s23/lab7 ```<enter>```
 
 command summarization: After changing the code, I changed directory to lab7 to run the test again, and after running test.sh the screenshot shows that the test now passed. 
