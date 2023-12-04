@@ -6,7 +6,7 @@
 
 Keys pressed:
 1. ssh cs15lfa23ff@ieng6.ucsd.edu
-2. password <enter>
+2. password ```<enter>```
 4. git clone https://github.com/ucsd-cse15l-s23/lab7 <enter>
 
 ![Image](lab42.png)
