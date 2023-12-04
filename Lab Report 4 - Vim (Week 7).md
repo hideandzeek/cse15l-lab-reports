@@ -15,14 +15,14 @@ Keys pressed:
 1. cd lab7 <enter>
 2. bash test.sh github.com/ucsd-cse15l-s23/lab7 <enter>
 
-![Image](lab4 3.png)
+![Image](lab43.png)
 
 Keys pressed:
 1. cd <enter>
 2. vim lab7 <enter>
 3. <j> until curser on ListExample.java <enter>
 
-![Image](lab4 4.png)
+![Image](lab44.png)
 
 Keys pressed:
 1. <j> , <k> , and <l> until curser is on index1
@@ -32,7 +32,7 @@ Keys pressed:
 5. <escape>
 6. :wq and <enter>
 
-![Image](lab4 5.png)
+![Image](lab45.png)
 
 Keys pressed:
 1. cd lab7
