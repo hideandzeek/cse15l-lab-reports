@@ -2,15 +2,14 @@
 # Lab Report  3
 ## Zeke Wang
 
-![Image](lab4 1.png)
+![Image](lab41.png)
 
 Keys pressed:
 1. ssh cs15lfa23ff@ieng6.ucsd.edu
 2. password <enter>
 4. git clone https://github.com/ucsd-cse15l-s23/lab7 <enter>
 
-![Image](lab4 2.png)
-![Image](cd1.png)
+![Image](lab42.png)
 
 Keys pressed:
 1. cd lab7 <enter>
