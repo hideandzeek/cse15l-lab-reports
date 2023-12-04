@@ -10,6 +10,7 @@ Keys pressed:
 4. git clone https://github.com/ucsd-cse15l-s23/lab7 <enter>
 
 ![Image](lab4 2.png)
+![Image](cd1.png)
 
 Keys pressed:
 1. cd lab7 <enter>
