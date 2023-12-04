@@ -24,8 +24,10 @@ TA's response:
 It looks like your program is encountering a StackOverflowError due to infinite recursion in your calculateFactorial method. To debug, try running your program with a smaller input value. Also, take a look at your calculateFactorial method and ensure there's a base case to break out of the recursion.
 
 Uses these commands to compile and run your program with a smaller input value again: 
-```javac FactorialWithError.java
-java FactorialWithError```
+```
+javac FactorialWithError.java
+java FactorialWithError
+```
 
 Student's follow up: 
 After running my program with a smaller input value, indeed, I'm getting an infinite loop of error messages. Here's a screenshot of the terminal output:
